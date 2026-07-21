@@ -1,12 +1,5 @@
 ```sql
--- ==========================================
--- Smart Clinic Database System
--- Complete SQL Implementation
--- ==========================================
 
--- ==========================================
--- Create Database
--- ==========================================
 
 DROP DATABASE IF EXISTS SmartClinicDB;
 
